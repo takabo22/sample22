@@ -1,3 +1,3 @@
 aversion=3
-x
+xx
 ftp://ftp.gnu.org/gnu/glibc/glibc-([\d\.]+)\.tar\.gz debian uupdate
